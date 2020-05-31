@@ -1,7 +1,7 @@
 > Tweets de ministros de Bolivia
 
 | Cartera                                             | Nombre                 | Twitter                                                | Datos                                                                             |   Publicaciones archivadas |
-|-----------------------------------------------------+------------------------+--------------------------------------------------------+-----------------------------------------------------------------------------------+----------------------------|
+|-----------------------------------------------------|------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------|
 | Canciller                                           | Karen Longaric         | [KarenLongaric](https://twitter.com/KarenLongaric)     | [json](https://github.com/mauforonda/ministweets/raw/master/KarenLongaric.json)   |                        168 |
 | Ministro de Gobierno                                | Arturo Murillo         | [ArturoMurilloS](https://twitter.com/ArturoMurilloS)   | [json](https://github.com/mauforonda/ministweets/raw/master/ArturoMurilloS.json)  |                      14073 |
 | Ministro de la Presidencia                          | Yerko Nuñez            | [yerko_nunez](https://twitter.com/yerko_nunez)         | [json](https://github.com/mauforonda/ministweets/raw/master/yerko_nunez.json)     |                        219 |
