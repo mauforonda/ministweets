@@ -2,7 +2,7 @@
 
 | Cartera                                             | Nombre                 | Twitter                                                | Datos                                                                             |   Publicaciones archivadas |
 |-----------------------------------------------------|------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------|
-| Canciller                                           | Karen Longaric         | [KarenLongaric](https://twitter.com/KarenLongaric)     | [json](https://github.com/mauforonda/ministweets/raw/master/KarenLongaric.json)   |                        168 |
+| Ministra de Relaciones Exteriores                   | Karen Longaric         | [KarenLongaric](https://twitter.com/KarenLongaric)     | [json](https://github.com/mauforonda/ministweets/raw/master/KarenLongaric.json)   |                        168 |
 | Ministro de Gobierno                                | Arturo Murillo         | [ArturoMurilloS](https://twitter.com/ArturoMurilloS)   | [json](https://github.com/mauforonda/ministweets/raw/master/ArturoMurilloS.json)  |                      14073 |
 | Ministro de la Presidencia                          | Yerko Nuñez            | [yerko_nunez](https://twitter.com/yerko_nunez)         | [json](https://github.com/mauforonda/ministweets/raw/master/yerko_nunez.json)     |                        219 |
 | Ministro de Defensa                                 | Fernando López         | [Ferlopezjulio1](https://twitter.com/Ferlopezjulio1)   | [json](https://github.com/mauforonda/ministweets/raw/master/Ferlopezjulio1.json)  |                        415 |
