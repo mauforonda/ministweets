@@ -14,7 +14,8 @@
 | Ministro de Educación                               | Victor Hugo Cárdenas   | [vhcardenasc](https://twitter.com/vhcardenasc)         | [json](https://github.com/mauforonda/ministweets/raw/master/vhcardenasc.json)     |                       8254 |
 | Ministra de Medio Ambiente y Agua                   | María Elva Pinckert    | [elva_pinckert](https://twitter.com/elva_pinckert)     | [json](https://github.com/mauforonda/ministweets/raw/master/elva_pinckert.json)   |                         14 |
 | Ministro de Justicia y Transparencia Institucional  | Álvaro Coímbra         | [alvarocoimbrac](https://twitter.com/alvarocoimbrac)   | [json](https://github.com/mauforonda/ministweets/raw/master/alvarocoimbrac.json)  |                       2256 |
-| Ministro de Desarrollo Productivo y Economía Plural | Oscar Ortiz            | [OscarOrtizA](https://twitter.com/OscarOrtizA)         | [json](https://github.com/mauforonda/ministweets/raw/master/OscarOrtizA.json)     |                       6227 |---
+| Ministro de Desarrollo Productivo y Economía Plural | Oscar Ortiz            | [OscarOrtizA](https://twitter.com/OscarOrtizA)         | [json](https://github.com/mauforonda/ministweets/raw/master/OscarOrtizA.json)     |                       6227 |
+| Ministro de Trabajo Empleo y Previsión Social       | Oscar Bruno Mercado    | [totomercadocbba](https://twitter.com/totomercadocbba) | [json](https://github.com/mauforonda/ministweets/raw/master/totomercadocbba.json) |                        485 |---
 
 - Los datos en este repositorio no incluyen todos los tweets de los usuarios por límites de Twitter. Seguiré intentando en el futuro. :)
 
